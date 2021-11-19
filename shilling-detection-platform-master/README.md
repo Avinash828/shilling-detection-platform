@@ -1,7 +1,7 @@
 <h1>Shilling attack Detection Platform </h1>
 
 A Python library used to collect shilling detection methods (python 2.7.x). (for academic research)
-<br>**Founder**:shaochen</br>
+<br>**Founder**:</br>
 <h2>How to Run it</h2>
 <ul>
 <li>1.Configure the **xx.conf** file in the directory named config. (xx is the name of the method you want to run)</li>
